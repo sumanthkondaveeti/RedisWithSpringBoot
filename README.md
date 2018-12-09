@@ -16,6 +16,7 @@ This is Standalone Java application using springboot and Redis where I created A
 **Insert Hash set into Redis :**
 
 http://localhost:8080/Insertintoredis
+**HTTP POST**
 
 **Body**
 
@@ -31,6 +32,7 @@ http://localhost:8080/Insertintoredis
 **get Hash set from Redis :**
 
 http://localhost:8080/gethashmap/anykey
+**HTTP GET**
 
 **output**
 
