@@ -30,7 +30,7 @@ http://localhost:8080/Insertintoredis
 
 **get Hash set from Redis :**
 
-http://localhost:8080/gethashmap/mykey
+http://localhost:8080/gethashmap/anykey
 
 **output**
 
